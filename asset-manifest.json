@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d0f5fc9.css",
+    "main.css": "/static/css/main.74df318c.css",
     "main.js": "/static/js/main.153623a6.js",
     "static/media/project4.png": "/static/media/project4.086e06bb4816b53e367b.png",
     "static/media/project2.png": "/static/media/project2.005b9b8260434598d947.png",
@@ -12,11 +12,11 @@
     "static/media/dtimelogo.png": "/static/media/dtimelogo.573c28c38c1c7d33c6d2.png",
     "static/media/project1.png": "/static/media/project1.c1601cc915be4b456b0a.png",
     "index.html": "/index.html",
-    "main.8d0f5fc9.css.map": "/static/css/main.8d0f5fc9.css.map",
+    "main.74df318c.css.map": "/static/css/main.74df318c.css.map",
     "main.153623a6.js.map": "/static/js/main.153623a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d0f5fc9.css",
+    "static/css/main.74df318c.css",
     "static/js/main.153623a6.js"
   ]
 }
