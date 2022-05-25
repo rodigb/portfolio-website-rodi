@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-website-rodi/static/css/main.8d0f5fc9.css",
+    "main.js": "/portfolio-website-rodi/static/js/main.84e42e09.js",
+    "static/media/project4.png": "/portfolio-website-rodi/static/media/project4.086e06bb4816b53e367b.png",
+    "static/media/project2.png": "/portfolio-website-rodi/static/media/project2.005b9b8260434598d947.png",
+    "static/media/background.jpg": "/portfolio-website-rodi/static/media/background.fcf31fbe3dc70b766feb.jpg",
+    "static/media/project5.png": "/portfolio-website-rodi/static/media/project5.3310e0546c58a60a3967.png",
+    "static/media/psbackground.jpg": "/portfolio-website-rodi/static/media/psbackground.ce166c58a3a566a052cb.jpg",
+    "static/media/RodiCV.pdf": "/portfolio-website-rodi/static/media/RodiCV.75075f274870cc17d418.pdf",
+    "static/media/project3.png": "/portfolio-website-rodi/static/media/project3.120fbbc8a789a0e2abb4.png",
+    "static/media/dtimelogo.png": "/portfolio-website-rodi/static/media/dtimelogo.573c28c38c1c7d33c6d2.png",
+    "static/media/project1.png": "/portfolio-website-rodi/static/media/project1.c1601cc915be4b456b0a.png",
+    "index.html": "/portfolio-website-rodi/index.html",
+    "main.8d0f5fc9.css.map": "/portfolio-website-rodi/static/css/main.8d0f5fc9.css.map",
+    "main.84e42e09.js.map": "/portfolio-website-rodi/static/js/main.84e42e09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d0f5fc9.css",
+    "static/js/main.84e42e09.js"
+  ]
+}
