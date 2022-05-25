@@ -1,0 +1,46 @@
+.portfolio-page{
+    height:100%;
+    width:100%;
+   
+    position:relative;
+    padding-bottom:8rem;
+}
+
+.portfolio-description{
+
+    padding-top:100px;
+
+}
+
+.portfolio-box{
+    
+    padding:1rem;
+  
+    width:70%;
+    height:100%;
+    margin:0 auto;
+    color:white;
+    background:#142850;
+    
+    
+  }
+
+  .projects-list{
+      display:grid;
+      grid-template-columns: 1fr 1fr;
+      gap:16px;
+  }
+
+.portfolio-header{
+    position:relative;
+    text-align:center;
+    padding-bottom:2rem;
+}
+
+@media screen and (max-width:1200px){
+    .projects-list{
+        grid-template-columns: 1fr;
+    }
+    
+
+  }

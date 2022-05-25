@@ -1,0 +1,89 @@
+.card{
+    height:100%;
+    width:100%;
+    padding:2rem;
+    box-shadow: 0 4px 8px 8px rgba(0,0,0,0.2);
+    background:#27496D;
+     
+    
+}
+
+.card a{
+    text-decoration: none;
+    color:white;
+}
+
+.card a:hover{
+    color:#00A8CC;
+}
+.image-div{
+    width:100%;
+    height:100%;
+    /* background-color: #00A8CC;
+    border:1px solid #00A8CC; */
+    
+     
+}
+
+.card-body img{
+     
+    opacity:0.5;
+    width:100%;
+    height:28vh;
+    
+}
+
+.card-body img:hover{
+     
+    opacity:1;
+ 
+    transition:0.25s ease-in;
+    cursor:pointer;
+    
+}
+
+.card-title{
+    width:100%;
+    height:100%;
+}
+.card-desc{
+    width:100%;
+    height:100%;
+    
+}
+
+.card-button1{
+ width:10%;
+ height:10%;
+ background:none;
+ border:none;
+ font-size:25px;
+ padding-top:1rem;
+ color:white;
+}
+
+.card-button1:hover{
+    color:#00A8CC;
+    cursor:pointer;
+}
+
+.portfolio-num{
+    color:#00A8CC;
+    font-weight: normal;
+}
+
+@media screen and (max-width:720px){
+    .card-body img{
+        height:14vh;
+    }
+    
+
+  }
+
+  @media screen and (max-width:1000px){
+    .card-body img{
+        height:24vh;
+    }
+    
+
+  }

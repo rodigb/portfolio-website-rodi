@@ -1,0 +1,73 @@
+.footer{
+    position:relative;
+    width:100%;
+    height:250px;
+    background:#27496D;
+    color:white;
+    
+    
+}
+.custom-shape-divider-bottom-1652737101 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 50px;
+    
+}
+.custom-shape-divider-bottom-1652737101 .shape-fill {
+    fill: #142850;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+}
+
+
+
+
+.email{
+    font-size:20px;
+    display:flex;
+    justify-content:center;
+    padding-top:2rem;
+    color:white;
+    
+
+}
+
+.email :hover{
+    color:#00A8CC;
+}
+
+.email-link{
+    
+}
+
+.copyright-rodi{
+    font-size:20px;
+    display:flex;
+    justify-content:center;
+     
+}
+
+
+.footer ul{
+    display:flex;
+     
+    justify-content:center;
+}
+
+.footer li{
+    font-size:40px;
+    padding:1rem;
+
+}
+
+.footer li a{
+    text-decoration: none;
+    color:inherit;
+}
+
+.footer li a:hover{
+    color:#00A8CC;
+
+}
+ 
