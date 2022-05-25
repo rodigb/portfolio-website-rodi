@@ -164,10 +164,6 @@
   .about-avatar-area{
     visibility:hidden;
   }
-
-}
-
-@media screen and (max-width:500px){
   .tech-text{
     visibility:hidden;
   }
@@ -177,6 +173,8 @@
   }
 
 }
+
+ 
 
 @media screen and (max-width:1200px){
   .about-avatar-area{
