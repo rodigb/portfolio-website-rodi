@@ -8,7 +8,7 @@ function PortfolioCard(props) {
     <div className="card">
         <div className="card-body">
         
-            <div className="image-div"><img src={props.img}/>
+            <div className="image-div"><a href={props.href}><img src={props.img}  /></a>
                 <a className="img-overlay">
                 
                 </a>

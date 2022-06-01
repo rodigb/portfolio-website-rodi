@@ -9,6 +9,7 @@ import projectimage3 from './images/dtimelogo.png'
 import projectimage4 from './images/project4.png'
 import projectimage5 from './images/project3.png'
 import projectimage6 from './images/project5.png'
+import projectimage7 from './images/project7.png'
 
 import "aos/dist/aos.css"
 import Aos from "aos";
@@ -52,6 +53,18 @@ function Portfolio() {
 
                     <div data-aos="fade-right" className='project'>
                     <a className='project-image'>
+                    <PortfolioCard img={projectimage7} 
+                        title={"Project Earth"}
+                        href={"https://rodigb.github.io/project-earth/"}
+                        desc={"This was a fun project that utilizes threeJS to display animated 3D computer graphics. In my project you can find a 3D design of our planet, moon and sun."}
+                        link={"https://github.com/rodigb/project-earth"}>
+                            
+                        </PortfolioCard>
+                    </a>
+                </div>
+
+                    <div data-aos="fade-left" className='project'>
+                    <a className='project-image'>
                     <PortfolioCard img={projectimage1} 
                         title={"My Portfolio Website"}
                         desc={"This website was created to act as my online portoflio. Utilized ReactJS."}
@@ -61,7 +74,7 @@ function Portfolio() {
                     </a>
                 </div>
 
-                <div data-aos="fade-left" className='project'>
+                <div data-aos="fade-right" className='project'>
                     <a className='project-image'>
                     <PortfolioCard img={projectimage6} 
                         title={"Gym Tracking App"}
@@ -72,7 +85,7 @@ function Portfolio() {
                 </div>
 
                 
-                <div data-aos="fade-right" className='project'>
+                <div data-aos="fade-left" className='project'>
                     <a className='project-image'>
                     <PortfolioCard img={projectimage5} 
                         title={"Navigation Application"}
@@ -82,7 +95,7 @@ function Portfolio() {
                     </a>
                 </div>
 
-                <div data-aos="fade-left" className='project'>
+                <div data-aos="fade-right" className='project'>
                     <a className='project-image'>
                     <PortfolioCard img={projectimage4} 
                         title={"Alarm Clock"}
